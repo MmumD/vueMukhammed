@@ -1,8 +1,4 @@
-220107099
-220107072
-220107010
-220107122
-
-FRONT-END
-
-EX 1
+Changed images
+changed text
+changed count += 2
+Deleted all things from main page
