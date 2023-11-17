@@ -91,3 +91,9 @@ findLongestWord("My name is Mukhammed.");
 
 console.log(1 < 2 < 3);
 console.log(3 > 2 > 1);
+
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/MmumD/front-end.git
+// git push -u origin main
